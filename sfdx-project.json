@@ -1,0 +1,26 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "demo-case-pckg",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "dependencies": [
+                {
+                    "package": "Base-Pck",
+                    "versionNumber": "0.1.0.LATEST"
+                }
+            ]
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "47.0",
+    "packageAliases": {
+        "Base-Pck": "0Ho1I000000PB0DSAW",
+        "demo-case-pckg": "0Ho1I000000PB0ISAW",
+        "demo-case-pckg@0.1.0-1": "04t1I000003B3HsQAK",
+        "demo-case-pckg@0.1.0-2": "04t1I000003B3HxQAK"
+    }
+}

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="963c2e1a-a3cc-4730-9561-71bf4fdfede2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.forceignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/illuminatedCloud.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case-Factory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IlluminatedCloud/package_scratch/OfflineSymbolTable.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/project-scratch-def.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/BronzeSLAManager.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/BronzeSLAManager.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/CaseFactory_Handler.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/CaseFactory_Handler.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/CaseSLAManager.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/CaseSLAManager.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/CaseSLAManagerTest.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/CaseSLAManagerTest.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/GoldSLAManager.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/GoldSLAManager.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/ISLAManager.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/ISLAManager.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/SLAFactory.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/SLAFactory.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/SilverSLAManager.cls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/classes/SilverSLAManager.cls-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/customMetadata/SLAServiceSupport.Bronze.md-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/customMetadata/SLAServiceSupport.Gold.md-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/customMetadata/SLAServiceSupport.Silver.md-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/customMetadata/TriggerHandlers.CaseFactory_Handler.md-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/lwc/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/objects/Case/fields/SLA_Hours__c.field-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/objects/Case/fields/Service_Type__c.field-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/objects/SLAServiceSupport__mdt/SLAServiceSupport__mdt.object-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/objects/SLAServiceSupport__mdt/fields/Class_Name__c.field-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/force-app/main/default/permissionsets/TriggerManager.permissionset-meta.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/apex/hello.apex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/soql/account.soql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfdx-project.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="75" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Apex Interface" />
+        <option value="Apex Class" />
+        <option value="Apex Metadata" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="moduleWorkspaceSettings">
+      <map>
+        <entry key="Case-Factory">
+          <value>
+            <ModuleWorkspaceSettings>
+              <option name="moduleContentsLastModified" value="1580166060429" />
+              <option name="serverMetadataLastPopulated" value="1580166060429" />
+            </ModuleWorkspaceSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="package-scratch">
+              <value>
+                <ConnectionWorkspaceSettings />
+              </value>
+            </entry>
+          </map>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wzx6Z5bHa8TDJ0gBMy3UuENkx1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RunManager" selected="Apex Unit Tests.CaseSLAManagerTest">
+    <configuration name="CaseSLAManagerTest" type="com.illuminatedcloud.intellij" factoryName="Apex Unit Tests" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allTests" value="false" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="apexLogLevel" value="DEBUG" />
+      <option name="calloutsLogLevel" value="ERROR" />
+      <option name="connectionName" value="package-scratch" />
+      <option name="connectionType" value="SFDX" />
+      <option name="contextConfiguration" value="true" />
+      <option name="databaseLogLevel" value="ERROR" />
+      <option name="logLevelsInitialized" value="true" />
+      <option name="moduleToTestClassNames">
+        <map>
+          <entry key="Case-Factory">
+            <value>
+              <set>
+                <option value="CaseSLAManagerTest" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="nbaLogLevel" value="ERROR" />
+      <option name="profilingLogLevel" value="ERROR" />
+      <option name="systemLogLevel" value="ERROR" />
+      <option name="testClassToTestMethodNames">
+        <map />
+      </option>
+      <option name="testSuiteName" />
+      <option name="validationLogLevel" value="ERROR" />
+      <option name="visualforceLogLevel" value="FINE" />
+      <option name="waveLogLevel" value="ERROR" />
+      <option name="workflowLogLevel" value="ERROR" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CaseSLAManagerTest.SLATests" type="com.illuminatedcloud.intellij" factoryName="Apex Unit Tests" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allTests" value="false" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="apexLogLevel" value="DEBUG" />
+      <option name="calloutsLogLevel" value="INFO" />
+      <option name="connectionName" value="package-scratch" />
+      <option name="connectionType" value="SFDX" />
+      <option name="contextConfiguration" value="true" />
+      <option name="databaseLogLevel" value="INFO" />
+      <option name="logLevelsInitialized" value="false" />
+      <option name="moduleToTestClassNames">
+        <map>
+          <entry key="Case-Factory">
+            <value>
+              <set>
+                <option value="CaseSLAManagerTest" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="nbaLogLevel" value="INFO" />
+      <option name="profilingLogLevel" value="INFO" />
+      <option name="systemLogLevel" value="DEBUG" />
+      <option name="testClassToTestMethodNames">
+        <map>
+          <entry key="CaseSLAManagerTest">
+            <value>
+              <set>
+                <option value="SLATests" />
+              </set>
+            </value>
+          </entry>
+        </map>
+      </option>
+      <option name="testSuiteName" />
+      <option name="validationLogLevel" value="INFO" />
+      <option name="visualforceLogLevel" value="INFO" />
+      <option name="waveLogLevel" value="INFO" />
+      <option name="workflowLogLevel" value="INFO" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Apex Unit Tests.CaseSLAManagerTest" />
+        <item itemvalue="Apex Unit Tests.CaseSLAManagerTest.SLATests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="963c2e1a-a3cc-4730-9561-71bf4fdfede2" name="Default Changelist" comment="" />
+      <created>1580166049722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580166049722</updated>
+      <workItem from="1580166060701" duration="275000" />
+      <workItem from="1580166338511" duration="5913000" />
+      <workItem from="1580213409089" duration="3404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="339" y="108" key="#Illuminated_Cloud_(Case-Factory)" timestamp="1580166068897">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="339" y="108" key="#Illuminated_Cloud_(Case-Factory)/0.0.1680.1050@0.0.1680.1050" timestamp="1580166068897" />
+    <state x="608" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1580172490902">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="608" y="181" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1580172490902" />
+    <state width="2506" height="399" key="GridCell.Tab.0.bottom" timestamp="1580216756815">
+      <screen x="1680" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1626" height="271" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1580174664533" />
+    <state width="1626" height="240" key="GridCell.Tab.0.bottom/0.23.1680.978@0.23.1680.978" timestamp="1580208122270" />
+    <state width="2506" height="399" key="GridCell.Tab.0.bottom/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1580216756815" />
+    <state width="2506" height="399" key="GridCell.Tab.0.center" timestamp="1580216756814">
+      <screen x="1680" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1626" height="271" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1580174664531" />
+    <state width="1626" height="240" key="GridCell.Tab.0.center/0.23.1680.978@0.23.1680.978" timestamp="1580208122269" />
+    <state width="2506" height="399" key="GridCell.Tab.0.center/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1580216756814" />
+    <state width="2506" height="399" key="GridCell.Tab.0.left" timestamp="1580216756813">
+      <screen x="1680" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1626" height="271" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1580174664530" />
+    <state width="1626" height="240" key="GridCell.Tab.0.left/0.23.1680.978@0.23.1680.978" timestamp="1580208122269" />
+    <state width="2506" height="399" key="GridCell.Tab.0.left/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1580216756813" />
+    <state width="2506" height="399" key="GridCell.Tab.0.right" timestamp="1580216756814">
+      <screen x="1680" y="0" width="2560" height="1440" />
+    </state>
+    <state width="1626" height="271" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1580174664532" />
+    <state width="1626" height="240" key="GridCell.Tab.0.right/0.23.1680.978@0.23.1680.978" timestamp="1580208122270" />
+    <state width="2506" height="399" key="GridCell.Tab.0.right/1680.0.2560.1440/0.0.1680.1050@1680.0.2560.1440" timestamp="1580216756814" />
+    <state width="1626" height="299" key="GridCell.Tab.1.bottom" timestamp="1580175162787">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1626" height="299" key="GridCell.Tab.1.bottom/0.23.1680.978@0.23.1680.978" timestamp="1580175162787" />
+    <state width="1626" height="299" key="GridCell.Tab.1.center" timestamp="1580175162786">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1626" height="299" key="GridCell.Tab.1.center/0.23.1680.978@0.23.1680.978" timestamp="1580175162786" />
+    <state width="1626" height="299" key="GridCell.Tab.1.left" timestamp="1580175162786">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1626" height="299" key="GridCell.Tab.1.left/0.23.1680.978@0.23.1680.978" timestamp="1580175162786" />
+    <state width="1626" height="299" key="GridCell.Tab.1.right" timestamp="1580175162787">
+      <screen x="0" y="23" width="1680" height="978" />
+    </state>
+    <state width="1626" height="299" key="GridCell.Tab.1.right/0.23.1680.978@0.23.1680.978" timestamp="1580175162787" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Case_Factory$CaseSLAManagerTest.null" NAME="package-scratch Coverage Results" MODIFIED="1580216695178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="Apex" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" PROJECT_NAME="Case-Factory" CONNECTION_NAME="package-scratch" CONNECTION_TYPE="SFDX" />
+  </component>
+</project>
